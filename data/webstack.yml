@@ -14,10 +14,7 @@
       logo: alice.ico
       url: https://app.alice.ws/
       description: Alice Networks,免费小鸡大善人
-    - title: Netjett
-      logo: netjett.ico
-      url: https://netjett.com/
-      description: High-end virtual private servers with the best value for money
+
     - title: ArcticCloud
       logo: 嘉立创.png
       url: https://vps.polarbear.nyc.mn/
@@ -38,10 +35,7 @@
       logo: hax.png
       url: https://hax.co.id/
       description: 稳定可靠的免费小鸡,5天手动续期
-    - title: 荔枝云
-      logo: lychenn.ico
-      url: https://www.lycheen.com/
-      description: 定期抽奖，有付费小鸡
+
     - title: Nodeseek
       logo: nodeseek.png
       url: https://www.nodeseek.com/
