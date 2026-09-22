@@ -14,7 +14,10 @@
       logo: alice.ico
       url: https://app.alice.ws/
       description: Alice Networks,免费小鸡大善人
-
+    - title: Yuusei
+      logo: OneDrive.ico
+      url: https://yuusei.io
+      description: Alice Networks,免费小鸡大善人
     - title: ArcticCloud
       logo: 嘉立创.png
       url: https://vps.polarbear.nyc.mn/
@@ -27,10 +30,6 @@
       logo: freecloud.ico
       url: https://freecloud.ltd/
       description: 难民云，帕斯云的亲子云, 免费小鸡6天续期
-    - title: Cloudcat
-      logo: cloudcat.ico
-      url: https://www.cloudcat.one/
-      description: 猫云,抽奖积分兑换法国小鸡
     - title: Hax
       logo: hax.png
       url: https://hax.co.id/
@@ -52,6 +51,10 @@
       logo: wuaipoj.png
       url: https://www.52pojie.cn/?fromuid=2475156
       description: 大名鼎鼎的吾爱破解论坛
+    - title: Discord
+      logo: discord.png
+      url: https://discord.com/
+      description: 著名的游戏社区
     - title: 万能下载
       logo: snapany.ico
       url: https://snapany.com/zh
